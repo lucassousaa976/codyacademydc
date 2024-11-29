@@ -1,7 +1,7 @@
 README: Bot de Quiz do Discord - UDF
 
 Sobre o Projeto
-Este repositório contém o código fonte do bot de quiz desenvolvido para a comunidade do Discord da UDF, mais especificamente para os alunos e professores dos cursos de tecnologia. O projeto faz parte da disciplina de Projeto de Linguagens de Programação, ministrada pela professora Kadidja.
+Este repositório contém o código fonte do bot de quiz desenvolvido para a comunidade do Discord da UDF, mais especificamente para os alunos e professores dos cursos de tecnologia. O projeto faz parte da disciplina de Projeto de Linguagens de Programação, ministrada pela professora Kadidja Valeria.
 
 O objetivo principal é criar um ambiente interativo e divertido para que a comunidade possa discutir sobre tecnologia, tirar dúvidas sobre o curso e, claro, participar de quizzes sobre os assuntos abordados em aula.
 
