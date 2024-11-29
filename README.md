@@ -14,6 +14,8 @@ Tecnologias Utilizadas
 Linguagem de programação: Python
 Framework/Biblioteca: Discord.py
 
+Link Discord: https://discord.gg/sPPqCMyX6h
+
 Como Contribuir:
 Fork este repositório.
 Clone o seu fork.
